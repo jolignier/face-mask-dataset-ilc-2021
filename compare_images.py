@@ -27,7 +27,7 @@ def compare(img1, img2):
     return percentage
     
     
-if '__name__' == '__main__':
+if __name__ == '__main__':
     
     img_list = glob.glob(IMG_PATH)
     print("[INFO] - Comparison started !", len(img_list), "images to compare")

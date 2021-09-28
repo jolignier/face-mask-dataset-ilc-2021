@@ -6,7 +6,8 @@ Les images sont repertoriées en 3 catégories :
 - "with_mask", un masque correctment porté et qui recouvre la bouche et le nez
 - "with_incorrect_mask", un masque porté sous le nez, ou de facon pas très covid-friendly
 - "without_mask, Un visage sans masque
-La dataset doit faire environ 2300 images qui répartit par 23 doit donner environ **100 images à annoter par personne**
+
+Le dataset doit faire environ 2300 images qui répartit par 23 doit donner environ **100 images à annoter par personne**
 
 
 ## 2. Gestion des images

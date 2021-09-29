@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>22b7b3eb6cd45b6ff2c068f91bd5cbf1.jpg</filename>
+	<path>/home/toaster_master/Documents/5A/SysIntel BO/face-mask-dataset-ilc-2021/JPEGImages/22b7b3eb6cd45b6ff2c068f91bd5cbf1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1320</width>
+		<height>742</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>115</ymin>
+			<xmax>630</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

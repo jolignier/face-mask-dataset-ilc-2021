@@ -1,7 +1,6 @@
-<annotation verified="yes">
-	<folder>images</folder>
+	<folder>JPEGImages</folder>
 	<filename>61eb6521b9039c06f0388f17236da4cb.jpg</filename>
-	<path>/media/mortpo/VEGETA/images/61eb6521b9039c06f0388f17236da4cb.jpg</path>
+	<path>/home/toaster_master/Documents/5A/SysIntel BO/face-mask-dataset-ilc-2021/JPEGImages/61eb6521b9039c06f0388f17236da4cb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +11,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>without_mask</name>
+		<name>with_incorrect_mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

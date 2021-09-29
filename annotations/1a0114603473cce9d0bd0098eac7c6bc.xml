@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>images</folder>
+<annotation>
+	<folder>JPEGImages</folder>
 	<filename>1a0114603473cce9d0bd0098eac7c6bc.jpg</filename>
-	<path>/media/mortpo/VEGETA/images/1a0114603473cce9d0bd0098eac7c6bc.jpg</path>
+	<path>/home/toaster_master/Documents/5A/SysIntel BO/face-mask-dataset-ilc-2021/JPEGImages/1a0114603473cce9d0bd0098eac7c6bc.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>without_mask</name>
+		<name>with_incorrect_mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>77</xmin>
-			<ymin>4</ymin>
-			<xmax>229</xmax>
-			<ymax>194</ymax>
+			<xmin>81</xmin>
+			<ymin>15</ymin>
+			<xmax>235</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>540</xmin>
-			<ymin>25</ymin>
-			<xmax>595</xmax>
-			<ymax>141</ymax>
+			<xmin>535</xmin>
+			<ymin>45</ymin>
+			<xmax>605</xmax>
+			<ymax>147</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>without_mask</name>
+		<name>with_incorrect_mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>121</xmin>
-			<ymin>314</ymin>
-			<xmax>215</xmax>
-			<ymax>424</ymax>
+			<xmin>120</xmin>
+			<ymin>331</ymin>
+			<xmax>216</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>without_mask</name>
+		<name>with_incorrect_mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>529</xmin>
-			<ymin>330</ymin>
+			<xmin>506</xmin>
+			<ymin>355</ymin>
 			<xmax>631</xmax>
-			<ymax>463</ymax>
+			<ymax>487</ymax>
 		</bndbox>
 	</object>
 </annotation>

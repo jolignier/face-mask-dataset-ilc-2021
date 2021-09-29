@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>f09b5c252d843566058fad56c92107dd.jpg</filename>
+	<path>/media/mortpo/VEGETA/images/f09b5c252d843566058fad56c92107dd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>69</ymin>
+			<xmax>357</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

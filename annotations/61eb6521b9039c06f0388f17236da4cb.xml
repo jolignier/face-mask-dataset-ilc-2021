@@ -1,4 +1,3 @@
-<annotation>
 	<folder>JPEGImages</folder>
 	<filename>61eb6521b9039c06f0388f17236da4cb.jpg</filename>
 	<path>/home/toaster_master/Documents/5A/SysIntel BO/face-mask-dataset-ilc-2021/JPEGImages/61eb6521b9039c06f0388f17236da4cb.jpg</path>
@@ -17,10 +16,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>220</ymin>
-			<xmax>524</xmax>
-			<ymax>492</ymax>
+			<xmin>360</xmin>
+			<ymin>242</ymin>
+			<xmax>516</xmax>
+			<ymax>441</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +28,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>939</xmin>
-			<ymin>447</ymin>
-			<xmax>1076</xmax>
-			<ymax>631</ymax>
+			<xmin>967</xmin>
+			<ymin>473</ymin>
+			<xmax>1058</xmax>
+			<ymax>613</ymax>
 		</bndbox>
 	</object>
 </annotation>

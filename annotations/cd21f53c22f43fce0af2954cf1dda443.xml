@@ -1,0 +1,50 @@
+<annotation>
+	<folder>SysIntel BO</folder>
+	<filename>cd21f53c22f43fce0af2954cf1dda443.jpg</filename>
+	<path>/home/toaster_master/Documents/5A/SysIntel BO/cd21f53c22f43fce0af2954cf1dda443.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>696</ymin>
+			<xmax>588</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>782</ymin>
+			<xmax>1214</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1424</xmin>
+			<ymin>863</ymin>
+			<xmax>1495</xmax>
+			<ymax>972</ymax>
+		</bndbox>
+	</object>
+</annotation>

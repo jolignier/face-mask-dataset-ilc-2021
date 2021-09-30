@@ -1,0 +1,26 @@
+<annotation>
+	<folder>valid</folder>
+	<filename>shutterstock_1145933543-e1579497052960_jpg.rf.484e9b9fdec9aa67a63d08df3958cba6.jpg</filename>
+	<path>/home/bilo/Desktop/dataset/valid/shutterstock_1145933543-e1579497052960_jpg.rf.484e9b9fdec9aa67a63d08df3958cba6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>770</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>167</ymin>
+			<xmax>778</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

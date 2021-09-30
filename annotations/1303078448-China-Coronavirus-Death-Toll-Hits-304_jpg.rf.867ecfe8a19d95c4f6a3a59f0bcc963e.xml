@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.867ecfe8a19d95c4f6a3a59f0bcc963e.jpg</filename>
+	<path>/home/bilo/Desktop/dataset/train/1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.867ecfe8a19d95c4f6a3a59f0bcc963e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>97</ymin>
+			<xmax>327</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>r1p00017o82psp0o0or_jpg.rf.f0f90c07761eece753f02beac72d5efe.jpg</filename>
+	<path>/home/bilo/Desktop/dataset/train/r1p00017o82psp0o0or_jpg.rf.f0f90c07761eece753f02beac72d5efe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>156</ymin>
+			<xmax>485</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

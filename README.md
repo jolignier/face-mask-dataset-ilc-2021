@@ -34,5 +34,5 @@ Pensez à bien mettre renseigner vos avancés dans vos commits et pull request.
 
 ## 4. Les outils qui vont bien
 - Pour annoter les images : labelimg
-- Pour trouver les doublons dans les images : Le script "compare_images.py" (run n'importe ou)
+- Pour trouver les doublons dans les images : Le script "compare_images.py" (run n'importe ou), et lui passer les deux dossier source(les images des autres) et to_add (les votres à ajouter)
 - Pour renommer toutes ses images en leur hash MD5 (***A faire avant d'annoter***) : le script "rename_dir_md5.py" (à déplacer dans le dossier JPEGImages pour run)

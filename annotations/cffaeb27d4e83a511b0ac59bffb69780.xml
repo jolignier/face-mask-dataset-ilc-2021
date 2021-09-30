@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>images</folder>
+	<folder>JPEGImages</folder>
 	<filename>cffaeb27d4e83a511b0ac59bffb69780.jpg</filename>
-	<path>/media/mortpo/VEGETA/images/cffaeb27d4e83a511b0ac59bffb69780.jpg</path>
+	<path>D:\Users\Ipro\OneDrive - Université de Bourgogne\Cours ESIREM\5A - ILC\Systèmes Intelligents Avancés\Brousse\face-mask-dataset-ilc-2021\JPEGImages\cffaeb27d4e83a511b0ac59bffb69780.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,6 +57,78 @@
 			<ymin>321</ymin>
 			<xmax>1149</xmax>
 			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1349</xmin>
+			<ymin>338</ymin>
+			<xmax>1477</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1231</xmin>
+			<ymin>352</ymin>
+			<xmax>1330</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1157</xmin>
+			<ymin>329</ymin>
+			<xmax>1221</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>769</xmin>
+			<ymin>333</ymin>
+			<xmax>840</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>337</ymin>
+			<xmax>704</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>337</ymin>
+			<xmax>640</xmax>
+			<ymax>413</ymax>
 		</bndbox>
 	</object>
 </annotation>

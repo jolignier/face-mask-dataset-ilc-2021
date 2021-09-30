@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>d09db0170973456f4357a7930b6b52b8.jpg</filename>
-	<path>/home/toaster_master/Documents/5A/SysIntel BO/face-mask-dataset-ilc-2021/JPEGImages/d09db0170973456f4357a7930b6b52b8.jpg</path>
+	<path>D:\Users\Ipro\OneDrive - Université de Bourgogne\Cours ESIREM\5A - ILC\Systèmes Intelligents Avancés\Brousse\face-mask-dataset-ilc-2021\JPEGImages\d09db0170973456f4357a7930b6b52b8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,18 @@
 			<ymin>374</ymin>
 			<xmax>1127</xmax>
 			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>883</xmin>
+			<ymin>194</ymin>
+			<xmax>926</xmax>
+			<ymax>236</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>images</folder>
+	<folder>JPEGImages</folder>
 	<filename>fce78dca0f09468b64aa330dc53b7fbc.jpg</filename>
-	<path>/media/mortpo/VEGETA/images/fce78dca0f09468b64aa330dc53b7fbc.jpg</path>
+	<path>D:\Users\Ipro\OneDrive - Université de Bourgogne\Cours ESIREM\5A - ILC\Systèmes Intelligents Avancés\Brousse\face-mask-dataset-ilc-2021\JPEGImages\fce78dca0f09468b64aa330dc53b7fbc.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,30 @@
 			<ymin>150</ymin>
 			<xmax>365</xmax>
 			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>164</ymin>
+			<xmax>240</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>164</ymin>
+			<xmax>720</xmax>
+			<ymax>232</ymax>
 		</bndbox>
 	</object>
 </annotation>

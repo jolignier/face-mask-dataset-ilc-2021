@@ -3,7 +3,7 @@ import argparse
 import glob
 import numpy as np
 
-IMG_PATH = "./JPEGImages/*"
+#IMG_PATH = "./JPEGImages/*"
 THRESH = 65 
 
 
@@ -28,7 +28,15 @@ def compare(img1, img2):
     
 if __name__ == '__main__':
     
-    img_list = glob.glob(IMG_PATH)
+    
+    parser = argparse.ArgumentParser(description='Compare two images folder.')
+    parser.add_argument('--source', required=True, help='The main dir with everyone\s images')
+    parser.add_argument('--to_add', required=True, help='The images to add to main')
+
+    args = parser.parse_args()
+    
+    img_list_main = glob.glob(IMG_PATH)
+    img_list_to_add = glob.glob(TO_ADD_PATH)
     print("[INFO] - Comparison started !", len(img_list), "images to compare")
     for i in range (0, len(img_list)):
         for j in range (i+1, len(img_list)):

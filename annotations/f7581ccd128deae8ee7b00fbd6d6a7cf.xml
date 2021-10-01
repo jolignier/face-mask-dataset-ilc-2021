@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>f7581ccd128deae8ee7b00fbd6d6a7cf.jpg</filename>
+	<path>D:\ESIREM\ESIREM-sem9\sys_int\brouce\projet\face-mask-dataset-ilc-2021\JPEGImages\f7581ccd128deae8ee7b00fbd6d6a7cf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>213</ymin>
+			<xmax>381</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

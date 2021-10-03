@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMG A Annoter</folder>
+	<filename>57a26875e85b8e29e4cba104f3e5b50f.jpg</filename>
+	<path>C:\Users\Sevrin\Documents\COURS\ESIREM\5A\SystemeIntelligent\PROJET\IMG A Annoter\57a26875e85b8e29e4cba104f3e5b50f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>106</ymin>
+			<xmax>255</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

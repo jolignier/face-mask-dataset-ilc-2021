@@ -1,0 +1,50 @@
+<annotation>
+	<folder>IMG A Annoter</folder>
+	<filename>40272e0d4b50b872e7c80eb8f2456799.jpg</filename>
+	<path>C:\Users\Sevrin\Documents\COURS\ESIREM\5A\SystemeIntelligent\PROJET\IMG A Annoter\40272e0d4b50b872e7c80eb8f2456799.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>142</ymin>
+			<xmax>389</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>136</ymin>
+			<xmax>535</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>133</ymin>
+			<xmax>641</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

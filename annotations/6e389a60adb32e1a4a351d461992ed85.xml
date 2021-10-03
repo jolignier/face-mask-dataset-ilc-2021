@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMG A Annoter</folder>
+	<filename>6e389a60adb32e1a4a351d461992ed85.jpg</filename>
+	<path>C:\Users\Sevrin\Documents\COURS\ESIREM\5A\SystemeIntelligent\PROJET\IMG A Annoter\6e389a60adb32e1a4a351d461992ed85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>62</ymin>
+			<xmax>553</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

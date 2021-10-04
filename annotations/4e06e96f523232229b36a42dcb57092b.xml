@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>4e06e96f523232229b36a42dcb57092b.PNG</filename>
+	<path>C:\Users\User\Workspace\Dataset\dataset-julien\JPEGImages\4e06e96f523232229b36a42dcb57092b.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1387</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>51</ymin>
+			<xmax>649</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

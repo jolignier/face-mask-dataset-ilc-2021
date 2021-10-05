@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>6f39ced0d9f280ed6b7144b0fe4e474a.jpg</filename>
+	<path>C:\Users\yotex\Cours\Cours_2021-2022\SIA_IA\Projet\DataSet_IA_Blain_Bizot\JPEGImages\6f39ced0d9f280ed6b7144b0fe4e474a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>17</ymin>
+			<xmax>501</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

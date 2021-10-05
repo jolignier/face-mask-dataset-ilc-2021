@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>71b14e71a1548be4e50e22e00a2d2415.jpg</filename>
+	<path>C:\Users\yotex\Downloads\JPEGImages\71b14e71a1548be4e50e22e00a2d2415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>160</ymin>
+			<xmax>526</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

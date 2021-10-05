@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>cce28751005d97ab22c457b9620ad8dd.jpg</filename>
+	<path>C:\Users\youss\Pictures\Screenshots\covid_mask\jpeg_img\JPEGImages\cce28751005d97ab22c457b9620ad8dd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1572</width>
+		<height>755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>204</ymin>
+			<xmax>749</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

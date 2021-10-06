@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Milie</folder>
+	<filename>bf21ce48d98c6becd2e4979e0722aa54.jpg</filename>
+	<path>C:\Users\Emilie Genton\Documents\GitHub\detection_masques\images_recherche\all\Milie\bf21ce48d98c6becd2e4979e0722aa54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>110</ymin>
+			<xmax>664</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

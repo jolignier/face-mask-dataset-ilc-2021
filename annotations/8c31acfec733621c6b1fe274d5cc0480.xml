@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>8c31acfec733621c6b1fe274d5cc0480.jpg</filename>
+	<path>C:\Users\Camykwo\PycharmProjects\face-mask-dataset-ilc-2021\Images\8c31acfec733621c6b1fe274d5cc0480.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>59</ymin>
+			<xmax>184</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

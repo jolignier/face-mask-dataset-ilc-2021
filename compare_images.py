@@ -3,57 +3,52 @@ import argparse
 import glob
 import numpy as np
 
-#IMG_PATH = "./JPEGImages/*"
-THRESH = 65 
+IMG_PATH = "D:/Image_Projet/fork_JPEGImages/face-mask-dataset-ilc-2021/ToValidate/*"
+THRESH = 65
 
 
 def compare(img1, img2):
-    """ 
-        Compare two OpenCV images and return the 
+    """
+        Compare two OpenCV images and return the
         percentage of similarity of the images (0 - 100%)
     """
     # Set img2 to img1 shape to compare
     height = img1.shape[0]
     width = img1.shape[1]
     img2 = cv2.resize(img2, (width, height))
-    #--- take the absolute difference of the images ---
+    # --- take the absolute difference of the images ---
     res = cv2.absdiff(img1, img2)
-    #--- convert the result to integer type ---
+    # --- convert the result to integer type ---
     res = res.astype(np.uint8)
-    #--- find percentage difference based on number of pixels that are zero ---
-    percentage = 100 - ((np.count_nonzero(res) * 100)/ res.size)
-    
-    return percentage
-    
-    
-if __name__ == '__main__':
-    
-    
-    parser = argparse.ArgumentParser(description='Compare two images folder.')
-    parser.add_argument('--source', required=True, help='The main dir with everyone\s images')
-    parser.add_argument('--to_add', required=True, help='The images to add to main')
+    # --- find percentage difference based on number of pixels that are zero ---
+    percentage = 100 - ((np.count_nonzero(res) * 100) / res.size)
 
-    args = parser.parse_args()
-    
-    img_list_main = glob.glob(IMG_PATH)
-    img_list_to_add = glob.glob(TO_ADD_PATH)
+    return percentage
+
+
+if __name__ == '__main__':
+    RedondantImgString = ""
+    img_list = glob.glob(IMG_PATH)
     print("[INFO] - Comparison started !", len(img_list), "images to compare")
-    for i in range (0, len(img_list)):
-        for j in range (i+1, len(img_list)):
+    for i in range(0, len(img_list)):
+        for j in range(i + 1, len(img_list)):
             img1 = cv2.imread(img_list[i], 0)
             img2 = cv2.imread(img_list[j], 0)
             cmp = compare(img1, img2)
             print(cmp)
             if cmp > THRESH:
-                print('[INFO] - Images are very close to each other, >', THRESH,'% : ', img_list[i], ' -----', img_list[2])
-                
-          
+                print('[INFO] - Images are very close to each other, >', THRESH, '% : ', img_list[i], ' -----', img_list[j])
+                RedondantImgString += img_list[i] + " ; "
+                RedondantImgString += img_list[j] + "\n"
+    a = open('D:/Image_Projet/fork_JPEGImages/face-mask-dataset-ilc-2021/fichier_redondant','w')
+    a.write(RedondantImgString)
+    a.close()
     print("[INFO] - Comparison finished !")
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+

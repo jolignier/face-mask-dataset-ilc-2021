@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>28802bfad82776096ad856532da8d684.jpg</filename>
+	<path>D:\Image_Projet\fork_JPEGImages\face-mask-dataset-ilc-2021\Images\28802bfad82776096ad856532da8d684.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3810</width>
+		<height>2540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1371</xmin>
+			<ymin>296</ymin>
+			<xmax>2755</xmax>
+			<ymax>2353</ymax>
+		</bndbox>
+	</object>
+</annotation>

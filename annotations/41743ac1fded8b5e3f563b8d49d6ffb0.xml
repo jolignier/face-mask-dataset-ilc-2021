@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Milie</folder>
+	<filename>41743ac1fded8b5e3f563b8d49d6ffb0.jpg</filename>
+	<path>C:\Users\Emilie Genton\Documents\GitHub\detection_masques\images_recherche\all\Milie\41743ac1fded8b5e3f563b8d49d6ffb0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>104</ymin>
+			<xmax>486</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>61</ymin>
+			<xmax>584</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

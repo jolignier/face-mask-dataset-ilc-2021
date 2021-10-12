@@ -1,0 +1,26 @@
+<annotation>
+	<folder>badly_masked</folder>
+	<filename>6d56c3e642ccd87b5d32837cffadac70.jpeg</filename>
+	<path>/home/osama/Documents/scuola/projet_brousse/dataset/badly_masked/6d56c3e642ccd87b5d32837cffadac70.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>30</ymin>
+			<xmax>186</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

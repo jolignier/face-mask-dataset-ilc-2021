@@ -1,0 +1,26 @@
+<annotation>
+	<folder>non_masked</folder>
+	<filename>fb117e93f671acd57a6134e920d3b9d9.jpg</filename>
+	<path>/home/osama/Documents/scuola/projet_brousse/dataset/non_masked/fb117e93f671acd57a6134e920d3b9d9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>301</ymin>
+			<xmax>569</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

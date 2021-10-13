@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lulu</folder>
+	<filename>cf1f1c3708c930f6331f2a1762db63e7.jpg</filename>
+	<path>C:\Users\lucie\Documents\GitHub\detection_masques\images_recherche\all\lulu\cf1f1c3708c930f6331f2a1762db63e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>830</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>135</ymin>
+			<xmax>465</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

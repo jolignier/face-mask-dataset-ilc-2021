@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>82ff2b04b2e537d19cf1fe8d0dcf64d0.jpg</filename>
+	<path>/home/axel/Desktop/jpeg/JPEGImages/82ff2b04b2e537d19cf1fe8d0dcf64d0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_incorrect_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>301</ymin>
+			<xmax>188</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

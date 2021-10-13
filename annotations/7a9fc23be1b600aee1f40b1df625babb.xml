@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>7a9fc23be1b600aee1f40b1df625babb.jpg</filename>
+	<path>C:\Users\Camykwo\PycharmProjects\face-mask-dataset-ilc-2021\Images\7a9fc23be1b600aee1f40b1df625babb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>40</ymin>
+			<xmax>182</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

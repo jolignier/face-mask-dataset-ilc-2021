@@ -1,7 +1,7 @@
-<annotation>
-	<folder>badly_masked</folder>
+<annotation verified="yes">
+	<folder>images</folder>
 	<filename>a35a6fde6c9875d40f1ce015988599a0.jpg</filename>
-	<path>/home/osama/Documents/scuola/projet_brousse/dataset/badly_masked/a35a6fde6c9875d40f1ce015988599a0.jpg</path>
+	<path>/media/mortpo/VEGETA/images/a35a6fde6c9875d40f1ce015988599a0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>195</xmin>
-			<ymin>22</ymin>
-			<xmax>486</xmax>
-			<ymax>386</ymax>
+			<xmin>220</xmin>
+			<ymin>156</ymin>
+			<xmax>424</xmax>
+			<ymax>355</ymax>
 		</bndbox>
 	</object>
 </annotation>

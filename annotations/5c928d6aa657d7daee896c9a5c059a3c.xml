@@ -52,7 +52,7 @@
 </bndbox>
 </object>
 <object>
-<name>mask_weared_incorrect</name>
+<name>with_incorrect_mask</name>
 <pose>Unspecified</pose>
 <truncated>0</truncated>
 <occluded>0</occluded>
